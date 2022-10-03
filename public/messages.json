@@ -1,0 +1,58 @@
+[
+    {
+        "id": "c1",
+        "users": [
+            "u1",
+            "u3",
+            "u2"
+        ],
+        "title": "Evaluation VueJS v2",
+        "messages": [
+            {
+                "id": "m1",
+                "author": "u3",
+                "sentDate": "2022/09/29 09:08:32",
+                "textContent": "Vous êtes sur une application qui ressemble a linkedin ! Je veux 3 pages:\n - Le mur \n - Mon compte \n - Ma messagerie \n \n -Sur le mur: Liste de différents messages de la part de différents utilisateur trié par ordre décroissant de date de publication \n -Mon compte: Formulaire où vous pouvez modifier vos informations utilisateur (nom, prenom, email, telephone, activité...etc). Vous pensez à gérer les validations...etc \n- Ma messagerie: La liste des derniers messages reçus par utilisateur. \n \n Niveau template, vous avez votre nom affiché dans le menu. Si vous le changez sur le formulaire 'mon compte' il change aussi. \n \n Vue.js / VueX et tout autre librairies qui vous semble pertinent d'installer et d'utiliser avec NPM    !  \n \n Simple et efficace. Une journée suffit mais je vous laisse jusqu'a dimanche soir si jamais",
+                "imgSrc": ""
+            },
+            {
+                "id": "m2",
+                "author": "u2",
+                "sentDate": "2022/09/29 09:10:55",
+                "textContent": "Pas cool !",
+                "imgSrc": ""
+            },
+            {
+                "id": "m3",
+                "author": "u1",
+                "sentDate": "2022/10/02 23:10:55",
+                "textContent": "Tu as pourri mon week-end !",
+                "imgSrc": ""
+            }
+        ]
+    },
+    {
+        "id": "c2",
+        "users": [
+            "u1",
+            "u4"
+        ],
+        "title": "Il a craqué ou quoi ??",
+        "messages": [
+            {
+                "id": "m4",
+                "author": "u3",
+                "sentDate": "2022/09/29 09:08:32",
+                "textContent": "Vous êtes sur une application qui ressemble a linkedin ! Je veux 3 pages:\n - Le mur \n - Mon compte \n - Ma messagerie \n \n -Sur le mur: Liste de différents messages de la part de différents utilisateur trié par ordre décroissant de date de publication \n -Mon compte: Formulaire où vous pouvez modifier vos informations utilisateur (nom, prenom, email, telephone, activité...etc). Vous pensez à gérer les validations...etc \n- Ma messagerie: La liste des derniers messages reçus par utilisateur. \n \n Niveau template, vous avez votre nom affiché dans le menu. Si vous le changez sur le formulaire 'mon compte' il change aussi. \n \n Vue.js / VueX et tout autre librairies qui vous semble pertinent d'installer et d'utiliser avec NPM    !  \n \n Simple et efficace. Une journée suffit mais je vous laisse jusqu'a dimanche soir si jamais",
+                "imgSrc": ""
+            },
+            {
+                "id": "m5",
+                "author": "u2",
+                "sentDate": "2022/09/29 09:10:55",
+                "textContent": "Pas cool !",
+                "imgSrc": ""
+            }
+        ]
+    }
+]
