@@ -1,0 +1,219 @@
+[
+    {
+        "id": "u1",
+        "civility": {
+            "firstName": "Boby",
+            "lastName": "Sainclar",
+            "pseudo": "Bobidyboo",
+            "age": 23
+        },
+        "contactInfos": {
+            "mail": "",
+            "mobile": "",
+            "cp": "",
+            "city": ""
+        },
+        "currentWorkInfos": {
+            "currentActivity": "",
+            "domain": "",
+            "since": "",
+            "firmName": "",
+            "location": ""
+        },
+        "worksExperiences": [],
+        "favoriteCitation": "",
+        "personnalDescription": "",
+        "formations": [],
+        "skills": [],
+        "hobbies": [],
+        "mailBox": [],
+        "posts": [],
+        "relationships": []
+    },
+    {
+        "id": "u2",
+        "civility": {
+            "firstName": "Helene",
+            "lastName": "ELEGARSON",
+            "pseudo": "Blondinette",
+            "age": 58
+        },
+        "contactInfos": {
+            "mail": "",
+            "mobile": "",
+            "cp": "",
+            "city": "Marseilles"
+        },
+        "currentWorkInfos": {
+            "currentActivity": "Intermitent du spectable",
+            "domain": "",
+            "since": "",
+            "firmName": "",
+            "location": ""
+        },
+        "worksExperiences": [],
+        "favoriteCitation": "",
+        "personnalDescription": "",
+        "formations": [],
+        "skills": [],
+        "hobbies": [],
+        "mailBox": [],
+        "posts": [],
+        "relationships": []
+    },
+    {
+        "id": "u3",
+        "civility": {
+            "firstName": "Jean-Philippe",
+            "lastName": "AIRVITEMONSLIP",
+            "pseudo": "Speedy",
+            "age": 15
+        },
+        "contactInfos": {
+            "mail": "",
+            "mobile": "",
+            "cp": "",
+            "city": ""
+        },
+        "currentWorkInfos": {
+            "currentActivity": "",
+            "domain": "",
+            "since": "",
+            "firmName": "",
+            "location": ""
+        },
+        "worksExperiences": [],
+        "favoriteCitation": "",
+        "personnalDescription": "",
+        "formations": [],
+        "skills": [],
+        "hobbies": [],
+        "mailBox": [],
+        "posts": [],
+        "relationships": []
+    },
+    {
+        "id": "u4",
+        "civility": {
+            "firstName": "Boby",
+            "lastName": "Sainclar",
+            "pseudo": "Bobidyboo",
+            "age": 23
+        },
+        "contactInfos": {
+            "mail": "",
+            "mobile": "",
+            "cp": "",
+            "city": ""
+        },
+        "currentWorkInfos": {
+            "currentActivity": "",
+            "domain": "",
+            "since": "",
+            "firmName": "",
+            "location": ""
+        },
+        "worksExperiences": [],
+        "favoriteCitation": "",
+        "personnalDescription": "",
+        "formations": [],
+        "skills": [],
+        "hobbies": [],
+        "mailBox": [],
+        "posts": [],
+        "relationships": []
+    },
+    {
+        "id": "u5",
+        "civility": {
+            "firstName": "Boby",
+            "lastName": "Sainclar",
+            "pseudo": "Bobidyboo",
+            "age": 23
+        },
+        "contactInfos": {
+            "mail": "",
+            "mobile": "",
+            "cp": "",
+            "city": ""
+        },
+        "currentWorkInfos": {
+            "currentActivity": "",
+            "domain": "",
+            "since": "",
+            "firmName": "",
+            "location": ""
+        },
+        "worksExperiences": [],
+        "favoriteCitation": "",
+        "personnalDescription": "",
+        "formations": [],
+        "skills": [],
+        "hobbies": [],
+        "mailBox": [],
+        "posts": [],
+        "relationships": []
+    },
+    {
+        "id": "u6",
+        "civility": {
+            "firstName": "Boby",
+            "lastName": "Sainclar",
+            "pseudo": "Bobidyboo",
+            "age": 23
+        },
+        "contactInfos": {
+            "mail": "",
+            "mobile": "",
+            "cp": "",
+            "city": ""
+        },
+        "currentWorkInfos": {
+            "currentActivity": "",
+            "domain": "",
+            "since": "",
+            "firmName": "",
+            "location": ""
+        },
+        "worksExperiences": [],
+        "favoriteCitation": "",
+        "personnalDescription": "",
+        "formations": [],
+        "skills": [],
+        "hobbies": [],
+        "mailBox": [],
+        "posts": [],
+        "relationships": []
+    },
+    {
+        "id": "u7",
+        "civility": {
+            "firstName": "Boby",
+            "lastName": "Sainclar",
+            "pseudo": "Bobidyboo",
+            "age": 23
+        },
+        "contactInfos": {
+            "mail": "",
+            "mobile": "",
+            "cp": "",
+            "city": ""
+        },
+        "currentWorkInfos": {
+            "currentActivity": "",
+            "domain": "",
+            "since": "",
+            "firmName": "",
+            "location": ""
+        },
+        "worksExperiences": [],
+        "favoriteCitation": "",
+        "personnalDescription": "",
+        "formations": [],
+        "skills": [],
+        "hobbies": [],
+        "mailBox": [],
+        "posts": [],
+        "relationships": []
+    }
+]
